@@ -1,18 +1,50 @@
-# Welcome to Our Organization
+# Welcome to the Companion Webpage of the Portfolio Optimization Book
 
-![Organization Logo](https://link-to-your-logo.png)
+This is the companion webpage for the [Portfolio Optimization]() book.
+It contains slides, code examples (R and Python), exercises, and data.
 
-## About Us
 
-We are a team of passionate developers working on innovative projects. Our mission is to create impactful solutions that make a difference.
+## Chapters
 
-## Projects
+- Chapter 6 - Portfolio Basics
+  [slides]()., [R code](), [Python code]().
 
-- [Project 1](https://github.com/your-org/project1): Description of project 1.
-- [Project 2](https://github.com/your-org/project2): Description of project 2.
+- Chapter 7 - Modern Portfolio Theory
+  [slides]()., [R code](), [Python code]().
+  
+- Chapter 8 - Portfolio Backtesting
+  [slides]()., [R code](), [Python code]().
+  
+- Chapter 9 - High-Order Portfolios
+  [slides]()., [R code](), [Python code]().
+    
+- Chapter 10 - Portfolios with Alternative Risk Measures
+  [slides]()., [R code](), [Python code]().
+    
+- Chapter 11 - Risk Parity Portfolios
+  [slides]()., [R code](), [Python code]().
+  
+- Chapter 12 - Graph-Based Portfolios
+  [slides]()., [R code](), [Python code]().
+  
+- Chapter 13 - Index Tracking Portfolios
+  [slides]()., [R code](), [Python code]().
+   
+- Chapter 14 - Robust Portfolios
+  [slides]()., [R code](), [Python code]().
+  
+- Chapter 15 - Pairs Trading Portfolios
+  [slides]()., [R code](), [Python code]().
+  
+- Chapter 16 - Deep Learning Portfolios
+  [slides]()., [R code](), [Python code]().
 
-## Contact Us
 
-Feel free to reach out to us via [email](mailto:contact@youremail.com) or follow us on [Twitter](https://twitter.com/yourhandle).
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=your-org.your-org)
+
+## Contact Me
+
+Feel free to reach out to me via [email](mailto:daniel.p.palomar@gmail.com) or follow me on [Twitter](https://twitter.com/danielppalomar).
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=portfoliooptimizationbook..github)
+
