@@ -1,9 +1,9 @@
----
-title: "Portfolio Optimization Book - Companion Webpage"
----
+# Welcome to the Companion Webpage of the Portfolio Optimization Book
 
-This is the companion webpage for the [Portfolio Optimization](https://portfoliooptimizationbook.com) book.
+This is the [companion webpage](https://portfoliooptimizationbook.com) for the [Portfolio Optimization Book]().
 It contains slides, code examples (R and Python), exercises, and data.
+
+For contributing to the companion webpage, check the [developer webpage](https://github.com/portfoliooptimizationbook), where you can suggest code examples and additional slides.
 
 
 ## Chapters
