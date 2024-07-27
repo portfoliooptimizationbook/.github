@@ -1,9 +1,8 @@
 # Welcome to the developer version of the companion webpage
 
-This is the [companion webpage](https://portfoliooptimizationbook.com) for the [Portfolio Optimization Book]().
-It contains slides, code examples (R and Python), exercises, and data.
+The [companion webpage](https://portfoliooptimizationbook.com) for the [Portfolio Optimization Book]() contains slides, code examples (R and Python), exercises, and data.
 
-For contributing to the companion webpage, check the [developer webpage](https://github.com/portfoliooptimizationbook), where you can suggest code examples and additional slides.
+This [developer version webpage](https://github.com/portfoliooptimizationbook), where you can contribute with code examples and additional slides.
 
 
 ## Chapters
