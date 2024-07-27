@@ -1,15 +1,17 @@
-# Welcome to the Companion Webpage of the Portfolio Optimization Book
+---
+title: "Portfolio Optimization Book - Companion Webpage"
+---
 
-This is the companion webpage for the [Portfolio Optimization](http://portfoliooptimizationbook) book.
+This is the companion webpage for the [Portfolio Optimization](https://portfoliooptimizationbook.com) book.
 It contains slides, code examples (R and Python), exercises, and data.
 
 
 ## Chapters
 
-### Finantial Data
+### Part I - Finantial Data
 
 
-### Portfolio Optimization
+### Part II - Portfolio Optimization
 - Chapter 6 - Portfolio Basics:
   [slides](), [R code](), [Python code]().
 
@@ -55,5 +57,5 @@ It contains slides, code examples (R and Python), exercises, and data.
 
 Feel free to reach out to me via [email](mailto:daniel.p.palomar@gmail.com) or follow me on [Twitter](https://twitter.com/danielppalomar).
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=portfoliooptimizationbook..github)
+![](https://visitor-badge.laobi.icu/badge?page_id=portfoliooptimizationbook.com)
 
