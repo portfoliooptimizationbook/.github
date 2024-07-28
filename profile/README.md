@@ -5,12 +5,14 @@ The [companion webpage](https://portfoliooptimizationbook.com) for the [Portfoli
 This is the [developer GitHub webpage](https://github.com/portfoliooptimizationbook), where you can contribute with code examples and additional slides.
 
 
+
 ## Chapters
 
-### Part I - Finantial Data
 - Chapter 1 - Introduction:
   [slides](../slides/slides-intro.pdf), R code, Python code.
 
+
+### Part I - Finantial Data
 - Chapter 2 - Financial Data: Stylized Facts:
   [slides](../slides/slides-stylized-facts.pdf), R code, Python code.
 
@@ -55,8 +57,7 @@ This is the [developer GitHub webpage](https://github.com/portfoliooptimizationb
 
 
 
-## Contact Me
-
+## Contact
 Feel free to reach out to me via [email](mailto:daniel.p.palomar@gmail.com) or follow me on [Twitter](https://twitter.com/danielppalomar).
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=portfoliooptimizationbook.com)
