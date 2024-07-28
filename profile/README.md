@@ -49,10 +49,12 @@ This is the [developer GitHub webpage](https://github.com/portfoliooptimizationb
 
 
 
-### Appendices
-- Appendix A - Convex Optimization Theory
+- Appendix A - Convex Optimization Theory:
+  [slides](../slides/slides-convex-optimization-theory.pdf), R code, Python code.
 
-- Appendix B - Optimization Algorithms
+- Appendix B - Optimization Algorithms:
+  [slides](../slides/slides-optimization-algorithms.pdf), R code, Python code.
+
 
 
 
