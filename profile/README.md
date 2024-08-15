@@ -1,6 +1,6 @@
 # Welcome to the developer version of the companion webpage
 
-The [companion webpage](https://portfoliooptimizationbook.com) for the [Portfolio Optimization Book]() contains slides, code examples (R and Python), exercises, and data.
+The [companion webpage](https://portfoliooptimizationbook.com) for the [Portfolio Optimization Book](https://bookdown.org/palomar/portfoliooptimizationbook) contains slides, code examples (R and Python), exercises, and data.
 
 This is the [developer GitHub webpage](https://github.com/portfoliooptimizationbook), where you can contribute with code examples and additional slides.
 
@@ -60,7 +60,7 @@ This is the [developer GitHub webpage](https://github.com/portfoliooptimizationb
 
 
 ## Contact
-Feel free to reach out to me via [email](mailto:daniel.p.palomar@gmail.com) or follow me on [Twitter](https://twitter.com/danielppalomar).
+Feel free to reach out to me via [email](mailto:daniel.p.palomar@gmail.com) or follow me on [X (formerly Twitter)](https://twitter.com/danielppalomar).
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=portfoliooptimizationbook.com)
 
