@@ -5,14 +5,17 @@ This is the [developer GitHub webpage](https://github.com/portfoliooptimizationb
 
 
 ## Chapters
+Work in progress, updated weekly...
+
 
 - Chapter 1 - Introduction:
-  [slides](../slides/slides-intro.pdf), R code, Python code.
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-intro.pdf)
 
 
 ### Part I - Finantial Data
 - Chapter 2 - Financial Data: Stylized Facts:
-  [slides](../slides/slides-stylized-facts.pdf), R code, Python code.
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-stylized-facts.pdf), 
+  [R code <i class="fab fa-r-project"></i>](../R-code/R-code-stylized-facts.html)
 
 - Chapter 3 - Financial Data: IID Modeling
 
@@ -23,9 +26,14 @@ This is the [developer GitHub webpage](https://github.com/portfoliooptimizationb
 
 
 ### Part II - Portfolio Optimization
-- Chapter 6 - Portfolio Basics
+- Chapter 6 - Portfolio Basics: 
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-portfolio-basics.pdf),
+  [R code <i class="fab fa-r-project"></i>](../R-code/R-portfolio-basics.html)
 
-- Chapter 7 - Modern Portfolio Theory
+- Chapter 7 - Modern Portfolio Theory: 
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-modern-portfolio-theory.pdf.pdf),
+  [R code <i class="fab fa-r-project"></i>](../R-code/R-modern-portfolio-theory), 
+  [Python code <i class="fab fa-python"></i>](../python-code/python-portfolio-optim.ipynb)
 
 - Chapter 8 - Portfolio Backtesting
 
@@ -47,12 +55,13 @@ This is the [developer GitHub webpage](https://github.com/portfoliooptimizationb
 
 
 
+### Appendices
 - Appendix A - Convex Optimization Theory:
-  [slides](../slides/slides-convex-optimization-theory.pdf), R code, Python code.
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-convex-optimization-theory.pdf)
 
 - Appendix B - Optimization Algorithms:
-  [slides](../slides/slides-optimization-algorithms.pdf), R code, Python code.
-
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-optimization-algorithms.pdf), 
+  [R code <i class="fab fa-r-project"></i>](../R-code/R-code-optimization-algorithms.html)
 
 
 
