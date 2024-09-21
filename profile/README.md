@@ -67,6 +67,12 @@ Work in progress, updated weekly...
   [R code <i class="fab fa-r-project"></i>](../R-code/R-optimization-algorithms.html)
 
 
+### Miscellanea
+
+- [Sample slide title page <i class="fas fa-file-pdf"></i>](../slides/sample-slides-title-page.pdf) with customizable course info on a textbox.
+
+- Stock and crypto data used in the sample code can be conveniently found at https://github.com/dppalomar/pob
+
 
 
 ## Contact
