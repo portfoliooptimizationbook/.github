@@ -20,7 +20,8 @@ Work in progress, updated weekly...
 - Chapter 3 - Financial Data: IID Modeling
 
 - Chapter 4 - Financial Data: Time Series Modeling:
-  [slides <i class="fas fa-file-pdf"></i>](slides/slides-data-time-series.pdf)
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-data-time-series.pdf),
+  [R code <i class="fab fa-r-project"></i>](../R-code/R-data-time-series.html)
 
 
 - Chapter 5 - Financial Data: Graphs
@@ -38,10 +39,12 @@ Work in progress, updated weekly...
   [Python code <i class="fab fa-python"></i>](../python-code/python-portfolio-optim.ipynb)
 
 - Chapter 8 - Portfolio Backtesting: 
-  [slides <i class="fas fa-file-pdf"></i>](slides/slides-backtesting.pdf)
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-backtesting.pdf),
+  [R code <i class="fab fa-r-project"></i>](../R-code/R-backtesting.html)
 
 - Chapter 9 - High-Order Portfolios:
-  [slides <i class="fas fa-file-pdf"></i>](slides/slides-high-order-portfolios.pdf)
+  [slides <i class="fas fa-file-pdf"></i>](../slides/slides-high-order-portfolios.pdf),
+  [R code <i class="fab fa-r-project"></i>](../R-code/R-high-order-portfolios.html)
 
 - Chapter 10 - Portfolios with Alternative Risk Measures
 
