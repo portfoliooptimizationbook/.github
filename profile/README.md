@@ -12,7 +12,7 @@ Work in progress, updated weekly...
   [slides <i class="fas fa-file-pdf"></i>](../slides/slides-intro.pdf)
 
 
-### Part I - Finantial Data
+### Part I - Financial Data
 - Chapter 2 - Financial Data: Stylized Facts:
   [slides <i class="fas fa-file-pdf"></i>](../slides/slides-stylized-facts.pdf), 
   [R code <i class="fab fa-r-project"></i>](../R-code/R-stylized-facts.html)
